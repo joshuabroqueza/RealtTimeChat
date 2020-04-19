@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+//Install 
+//client
+npm install --save react-router socket.io-client react-scroll-to-bottom react-emoji query-string
+
+//server
+npm init -y
+npm install --save cors nodemon express socket.io
+
 ## Available Scripts
 
 In the project directory, you can run:
